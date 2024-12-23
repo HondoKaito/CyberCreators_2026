@@ -63,7 +63,7 @@ Xファイルの読み込み
 
 ◆開発環境
 　Visual studio2019 DirectX C++
-　GitHub→
+　GitHub→https://github.com/HondoKaito/CyberCreators_2026_Kaito-Hondo.git
 
 
 ◆注意事項
